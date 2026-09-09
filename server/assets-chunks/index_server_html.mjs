@@ -1,16 +1,52 @@
 export default `<!doctype html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="utf-8">
-  <title>RiveroAsesores</title>
+  <title>Rivero Asesores | Asesoría de Extranjería en España</title>
+  <meta name="description" content="Asesoría especializada en extranjería: visados, residencias, nacionalidad española, matrimonios, legalización de documentos y trámites consulares. Te ayudamos estés donde estés.">
+  <meta name="keywords" content="asesoria extranjeria, visados españa, residencia españa, nacionalidad española, abogado extranjeria, rivero asesores">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://riveroasesores.com/">
   <base href="/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Open Graph / redes sociales -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Rivero Asesores">
+  <meta property="og:title" content="Rivero Asesores | Asesoría de Extranjería en España">
+  <meta property="og:description" content="Visados, residencias, nacionalidad española, matrimonios y legalización de documentos. Te acompañamos en todo el proceso.">
+  <meta property="og:url" content="https://riveroasesores.com/">
+  <meta property="og:image" content="https://riveroasesores.com/og-image.jpg">
+  <meta property="og:locale" content="es_ES">
+
+  <!-- Twitter/X card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Rivero Asesores | Asesoría de Extranjería en España">
+  <meta name="twitter:description" content="Visados, residencias, nacionalidad española, matrimonios y legalización de documentos.">
+  <meta name="twitter:image" content="https://riveroasesores.com/og-image.jpg">
+
   <meta name="trustpilot-one-time-domain-verification-id" content="1c1f42e2-1298-4720-abcf-ee8748abbd54">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async=""></script>
+
+  <!-- Datos estructurados para Google (aparece en resultados enriquecidos) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LegalService",
+    "name": "Rivero Asesores",
+    "url": "https://riveroasesores.com/",
+    "description": "Asesoría especializada en extranjería: visados, residencias, nacionalidad española, matrimonios y legalización de documentos.",
+    "areaServed": "ES",
+    "sameAs": [
+      "https://es.trustpilot.com/review/riveroasesores.com"
+    ]
+  }
+  </script>
 <link rel="stylesheet" href="styles-5INURTSO.css"></head>
 <body><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
 </script>
   <app-root></app-root>
-<script src="main-2AJWY2S5.js" type="module"></script></body>
+<script src="main-UVYUSPNY.js" type="module"></script></body>
 </html>
 `;
